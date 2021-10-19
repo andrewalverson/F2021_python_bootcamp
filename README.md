@@ -1,4 +1,4 @@
-## Fall 2021 DASC Python Bootcamp
+## Fall 2021 DASC Python/R Bootcamp
 
 ### Day 1: Python
 
