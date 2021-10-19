@@ -16,11 +16,25 @@ We'll cover the following basic concepts and operations in Python:
 
 - how to build, use, slice, and index lists
 
+	- split()
+
+![](img/test.png)
+
 - how to open, read, and parse a file
+	
+	- with open() as:
+
+	- for loops
+
+	- next()
 
 - conditionals (if, elif, else)
 
 - how to format and print output
+	
+	- f'' vs. print()
+	
+	- '+' vs. ','
 
 - how to use Google to find help
 
