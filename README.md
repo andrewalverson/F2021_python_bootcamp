@@ -46,7 +46,7 @@ We'll cover the following basic concepts and operations in Python:
 
 ### Day 2: R
 
-#### Introduction to R and the tidyverse
+#### Basic concepts and functions in R and the [tidyverse](https://www.tidyverse.org/)
 
 [Tidy data](https://r4ds.had.co.nz/tidy-data.html):
 
@@ -56,9 +56,8 @@ We'll cover the following basic concepts and operations in Python:
 
 3. Each value must have its own cell.
 
-##### Basic concepts
 
-- [dataframe](http://www.r-tutor.com/r-introduction/data-frame): 2-dimensional table; the fundamental data structure in R
+[dataframe](http://www.r-tutor.com/r-introduction/data-frame): 2-dimensional table; the fundamental data structure in R
 	
 	- **columns** are variables that can differ in type (numeric, factor, character, etc.)
 	
@@ -66,9 +65,9 @@ We'll cover the following basic concepts and operations in Python:
 	
 	- each piece of data is called a **cell** 
 
-- [%>%](https://style.tidyverse.org/pipes.html): pipe – channel the output of what's before the pipe to the command after the pipe
+[%>%](https://style.tidyverse.org/pipes.html): pipe – channel the output of what's before the pipe to the command after the pipe
 
-- [filter()](https://dplyr.tidyverse.org/reference/filter.html): use to extract a subset of observations (rows)
+[filter()](https://dplyr.tidyverse.org/reference/filter.html): use to extract a subset of observations (rows)
 
 
 
