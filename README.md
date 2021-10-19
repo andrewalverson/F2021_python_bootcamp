@@ -18,7 +18,13 @@ We'll cover the following basic concepts and operations in Python:
 
 	- split()
 
-![](img/test.png)
+<figure>
+
+![](img/list_indexing.jpg)
+
+<figcaption align = "center">Fig. 1. List indexing and slicing in Python.</figcaption>
+
+</figure>
 
 - how to open, read, and parse a file
 	
