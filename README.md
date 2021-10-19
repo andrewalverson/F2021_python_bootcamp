@@ -1,5 +1,7 @@
 ## Fall 2021 DASC Python Bootcamp
 
+### Day 1: Python
+
 We'll use [Google Colab](https://colab.research.google.com/) to run Python code inside of Jupyter notebooks
 
 You'll need to clone this GitHub repository. It will help to copy and paste this web address:
@@ -42,3 +44,4 @@ We'll cover the following basic concepts and operations in Python:
 
 - how to use Google to find help
 
+### Day 2: R
