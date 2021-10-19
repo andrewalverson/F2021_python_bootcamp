@@ -45,3 +45,14 @@ We'll cover the following basic concepts and operations in Python:
 - how to use Google to find help
 
 ### Day 2: R
+
+Introduction to the tidyverse
+
+[Tidy data](https://r4ds.had.co.nz/tidy-data.html):
+
+1. Each variable must have its own column.
+
+2. Each observation must have its own row.
+
+3. Each value must have its own cell.
+
