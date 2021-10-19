@@ -16,9 +16,7 @@ We'll cover the following basic concepts and operations in Python:
 
 - how to build, use, slice, and index lists
 
-	- split()
-
-<figure>
+<figure align = "center">
 
 ![](img/list_indexing.jpg)
 
