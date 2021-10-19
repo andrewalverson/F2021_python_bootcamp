@@ -64,9 +64,9 @@ We'll cover the following basic concepts and operations in Python:
 	
 	- rows are observations of the different variable types described by the column name/header
 
-- **%>%** a pipe – channel the output of what's before the pipe to the command after the pipe
+- [**%>%**](https://style.tidyverse.org/pipes.html): pipe – channel the output of what's before the pipe to the command after the pipe
 
-- **filter()** to get a subset of observations (rows)
+- [**filter()**](https://dplyr.tidyverse.org/reference/filter.html): use to extract a subset of observations (rows)
 
 
 
