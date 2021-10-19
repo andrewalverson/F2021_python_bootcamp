@@ -63,12 +63,16 @@ We'll cover the following basic concepts and operations in Python:
 	
 - **rows** are observations of the different variable types described by the column name/header
 	
-- each piece of data is called a **cell** 
+- each piece of data is called a **cell**
+
+[<-](https://stat.ethz.ch/R-manual/R-devel/library/base/html/assignOps.html): assignment operator – save the results on the left side of '<-' to the variable name on the right; similar to how you use '=' in other contexts
 
 [%>%](https://style.tidyverse.org/pipes.html): pipe – channel the output of what's before the pipe to the command after the pipe
 
 [filter()](https://dplyr.tidyverse.org/reference/filter.html): use to extract a subset of observations (rows)
 
+[arrange()](): sorts a table based on a variable (e.g., sort data for players on a basketball team by player height)
 
+[aes()](https://beanumber.github.io/sds192/lab-ggplot2.html#Aesthetic_Mapping_(aes)) – aesthetic, something you can see, a mapping between a visual cue and a variable
 
 
