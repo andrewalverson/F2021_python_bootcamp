@@ -16,6 +16,7 @@ We'll cover the following basic concepts and operations in Python:
 
 - how to build, use, slice, and index lists
 
+
 <figure align = "center">
 
 ![](img/list_indexing.jpg)
@@ -23,6 +24,7 @@ We'll cover the following basic concepts and operations in Python:
 <figcaption align = "center">Fig. 1. List indexing and slicing in Python.</figcaption>
 
 </figure>
+
 
 - how to open, read, and parse a file
 	
