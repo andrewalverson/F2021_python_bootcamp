@@ -59,11 +59,11 @@ We'll cover the following basic concepts and operations in Python:
 
 [dataframe](http://www.r-tutor.com/r-introduction/data-frame): 2-dimensional table; the fundamental data structure in R
 	
-	- **columns** are variables that can differ in type (numeric, factor, character, etc.)
+- **columns** are variables that can differ in type (numeric, factor, character, etc.)
 	
-	- **rows** are observations of the different variable types described by the column name/header
+- **rows** are observations of the different variable types described by the column name/header
 	
-	- each piece of data is called a **cell** 
+- each piece of data is called a **cell** 
 
 [%>%](https://style.tidyverse.org/pipes.html): pipe – channel the output of what's before the pipe to the command after the pipe
 
