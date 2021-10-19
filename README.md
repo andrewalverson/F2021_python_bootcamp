@@ -8,9 +8,9 @@ You'll need to clone this GitHub repository. It will help to copy and paste this
 
 We'll cover the following basic concepts and operations in Python:
 	
-	- variables
+- variables
 
-	- integers, floats, and strings
+		- integers, floats, and strings
 
 	- basic math, adding numbers and strings
 
