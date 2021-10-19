@@ -8,6 +8,8 @@ You'll need to clone this GitHub repository. It will help to copy and paste this
 
 	https://github.com/andrewalverson/F2021_python_bootcamp
 
+One of the files is in GFF3 format. You can learn more about that [here](http://useast.ensembl.org/info/website/upload/gff3.html).
+
 We'll cover the following basic concepts and operations in Python:
 	
 - variables
@@ -57,7 +59,7 @@ We'll cover the following basic concepts and operations in Python:
 3. Each value must have its own cell.
 
 
-[dataframe](http://www.r-tutor.com/r-introduction/data-frame): 2-dimensional table; the fundamental data structure in R
+[data frame](http://www.r-tutor.com/r-introduction/data-frame): 2-dimensional table; the fundamental data structure in R
 	
 - **columns** are variables that can differ in type (numeric, factor, character, etc.)
 	
@@ -65,7 +67,7 @@ We'll cover the following basic concepts and operations in Python:
 	
 - each piece of data is called a **cell**
 
-[<-](https://stat.ethz.ch/R-manual/R-devel/library/base/html/assignOps.html): assignment operator – save the results on the left side of '<-' to the variable name on the right; similar to how you use '=' in other contexts
+[<-](https://stat.ethz.ch/R-manual/R-devel/library/base/html/assignOps.html) **assignment operator**, saves the results on the left side of '<-' to the variable name on the right; similar to how you use '=' in other contexts
 
 [%>%](https://style.tidyverse.org/pipes.html): **pipe**, channel the output of what's before the pipe to the command after the pipe
 
