@@ -46,7 +46,7 @@ We'll cover the following basic concepts and operations in Python:
 
 ### Day 2: R
 
-Introduction to the tidyverse
+#### Introduction to R and the tidyverse
 
 [Tidy data](https://r4ds.had.co.nz/tidy-data.html):
 
@@ -55,4 +55,19 @@ Introduction to the tidyverse
 2. Each observation must have its own row.
 
 3. Each value must have its own cell.
+
+##### Basic concepts
+
+- **dataframe**: 2-dimensional; the fundamental data structure in R
+	
+	- columns are variables that can differ in type (numeric, factor, character, etc.)
+	
+	- rows are observations of the different variable types described by the column name/header
+
+- **%>%** a pipe – channel the output of what's before the pipe to the command after the pipe
+
+- **filter()** to get a subset of observations (rows)
+
+
+
 
