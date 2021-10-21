@@ -2,7 +2,7 @@
 
 ### Day 1: Python
 
-> Note: All of the work and examples we did are in `learning_python.ipynb`
+**Note**: All of the work and examples we did are in `learning_python.ipynb`
 
 We'll use [Google Colab](https://colab.research.google.com/) to run Python code inside of Jupyter notebooks
 
@@ -47,6 +47,8 @@ We'll cover the following basic concepts and operations in Python:
 	- '+' vs. ','
 
 - how to use Google to find help
+
+---
 
 ### Day 2: R
 
