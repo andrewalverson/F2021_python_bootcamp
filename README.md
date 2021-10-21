@@ -52,15 +52,15 @@ We'll cover the following basic concepts and operations in Python:
 
 [Tidy data](https://r4ds.had.co.nz/tidy-data.html):
 
-1. Each variable must have its own column.
+1. Each variable has its own column
 
-2. Each observation must have its own row.
+2. Each observation has its own row
 
-3. Each value must have its own cell.
+3. Each value has its own cell
 
 
 [data frame](http://www.r-tutor.com/r-introduction/data-frame): 2-dimensional table; the fundamental data structure in R
-	
+
 - **columns** are variables that can differ in type (numeric, factor, character, etc.)
 	
 - **rows** are observations of the different variable types described by the column name/header
