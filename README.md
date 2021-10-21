@@ -2,6 +2,8 @@
 
 ### Day 1: Python
 
+> Note: All of the work and examples we did are in `learning_python.ipynb`
+
 We'll use [Google Colab](https://colab.research.google.com/) to run Python code inside of Jupyter notebooks
 
 You'll need to clone this GitHub repository. It will help to copy and paste this web address:
