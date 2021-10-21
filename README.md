@@ -69,7 +69,7 @@ One of the files is in GFF3 format. You can learn more about that [here](http://
 	
 - each piece of data is called a **cell**
 
-[<-](https://stat.ethz.ch/R-manual/R-devel/library/base/html/assignOps.html) **assignment operator**, saves the results on the left side of '<-' to the variable name on the right; similar to how you use '=' in other contexts
+[<-](https://stat.ethz.ch/R-manual/R-devel/library/base/html/assignOps.html) **assignment operator**, saves the data or results on the right side of '<-' to the variable name on the left; similar to how you use '=' in other contexts
 
 [%>%](https://style.tidyverse.org/pipes.html): **pipe**, channel the output of what's before the pipe to the command after the pipe
 
