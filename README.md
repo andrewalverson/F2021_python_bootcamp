@@ -48,7 +48,9 @@ One of the files is in GFF3 format. You can learn more about that [here](http://
 
 ---
 
-### Day 2: R
+### Day 2: R (see `F2021_bootcamp.Rmd and F2021_bootcamp.html`)
+
+The content in this bootcamp is based on Datacamp's "Introduction to the tidyverse" course.
 
 #### Basic concepts and functions in R and the [tidyverse](https://www.tidyverse.org/)
 
