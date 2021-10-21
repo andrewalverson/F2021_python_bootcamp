@@ -4,13 +4,13 @@
 
 We'll use [Google Colab](https://colab.research.google.com/) to run Python code inside of Jupyter notebooks
 
-You'll need to clone this GitHub repository. It will help to copy and paste this web address:
+You'll need to clone [this GitHub repository](https://github.com/andrewalverson/F2021_python_bootcamp). It will help to copy and paste this web address:
 
 	https://github.com/andrewalverson/F2021_python_bootcamp
 
 One of the files is in GFF3 format. You can learn more about that [here](http://useast.ensembl.org/info/website/upload/gff3.html).
 
-We'll cover the following basic concepts and operations in Python:
+#### We'll cover the following basic concepts and operations in Python:
 	
 - variables
 
