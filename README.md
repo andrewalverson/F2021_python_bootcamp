@@ -1,8 +1,6 @@
 ## Fall 2021 DASC Python/R Bootcamp
 
-### Day 1: Python
-
-**Note**: All of the work and examples we did are in `learning_python.ipynb`
+### Day 1: Python (see `learning_python.ipynb`)
 
 We'll use [Google Colab](https://colab.research.google.com/) to run Python code inside of Jupyter notebooks
 
