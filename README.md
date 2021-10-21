@@ -77,4 +77,4 @@ We'll cover the following basic concepts and operations in Python:
 
 [aes()](https://beanumber.github.io/sds192/lab-ggplot2.html#Aesthetic_Mapping_(aes)): **aesthetic**, something you can see, a mapping between a visual cue and a variable
 
-
+[summarize()](https://dplyr.tidyverse.org/reference/summarise.html): calculate summary statistics (e.g., mean, median) for one or more variables/columns
